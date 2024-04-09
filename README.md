@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+프론트엔드+개발자+김은비입니다+:D;저의+깃허브에+오신+것을+환영합니다!)](https://git.io/typing-svg)
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF"/></a>
+<br />
 
 
-## stack
+### ⭐️ Stack
 
 
 <br />
@@ -46,7 +46,6 @@
 
 <br />
 
-
 #### Tool
 
 <br />
@@ -57,7 +56,8 @@
 
 <br />
 
-## studying
+
+### 📚 studying
 
 <br />
 
@@ -68,6 +68,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunbime&show_icons=true&theme=radical) 
 
 <br />
+
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF"/></a>
 
 
 
