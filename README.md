@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+프론트엔드+개발자+김은비입니다+:D;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+프론트엔드+개발자+김은비입니다+:D;저의+깃허브에+오신+것을+환영합니다!)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunbime&show_icons=true&theme=radical)
 
