@@ -24,7 +24,7 @@ Framework & Library
 ![React Query](https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) 
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Zustand](https://img.shields.io/badge/zazzle-F47920?style=for-the-badge&logo=zazzle&logoColor=white) 
+![Zustand](https://img.shields.io/badge/Zustand-F47920?style=for-the-badge&logo=zazzle&logoColor=white) 
 
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
 
