@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+프론트엔드+개발자+김은비입니다+:D;저의+깃허브에+오신+것을+환영합니다!)](https://git.io/typing-svg)   
 
-[Tech Stack](#⭐️-Tech-Stack)
-[Studying](#📚-studying)
-[Projects](#👩‍💻-Projects)
-[Contact](#✉️-Contact)
+[Tech Stack](#⭐️-Tech-Stack)   
+[Studying](#📚-studying)   
+[Projects](#👩‍💻-Projects)   
+[Contact](#✉️-Contact)   
 
 
 ### ⭐️ Tech Stack
