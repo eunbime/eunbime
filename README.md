@@ -1,6 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+프론트엔드+개발자+김은비입니다+:D;저의+깃허브에+오신+것을+환영합니다!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+프론트엔드+개발자+김은비입니다+:D;저의+깃허브에+오신+것을+환영합니다!)](https://git.io/typing-svg)   
 
-### ⭐️ Stack
+[Tech Stack](#⭐️-Tech-Stack)
+[Studying](#📚-studying)
+[Projects](#👩‍💻-Projects)
+[Contact](#✉️-Contact)
+
+
+### ⭐️ Tech Stack
 
 #### Language  
 
@@ -38,18 +44,27 @@
 
 <br />
 
-### 📚 studying
+### 📚 Studying
 
 ![Recoil](https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunbime&show_icons=true&theme=radical) 
+### 👩‍💻 Projects   
+제가 진행했던 주요 프로젝트입니다.   
+1. [디벨롭팜](https://www.develofarm.site/projects)
+2. [엘리트 옥션](https://github.com/eunbime/elite-auction)
+3. [뮤케이션](https://github.com/eunbime/mucation-project)
 
 <br />
 
+### ✉️ Contact   
+
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF"/></a>
 
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunbime&show_icons=true&theme=radical) 
 
 
 
