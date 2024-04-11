@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+프론트엔드+개발자+김은비입니다+:D;저의+깃허브에+오신+것을+환영합니다!)](https://git.io/typing-svg)   
 
-1. [Tech Stack](#⭐️-Tech-Stack)   
-2. [Studying](#📚-studying)   
-3. [Projects](#👩‍💻-Projects)   
-4. [Contact](#✉️-Contact)   
-
 
 ### ⭐️ Tech Stack
 
@@ -52,7 +47,7 @@
 
 ### 👩‍💻 Projects   
 제가 진행했던 주요 프로젝트입니다.   
-1. [디벨롭팜](https://www.develofarm.site/projects)
+1. [디벨롭팜](https://github.com/eunbime/develofarm)
 2. [엘리트 옥션](https://github.com/eunbime/elite-auction)
 3. [뮤케이션](https://github.com/eunbime/mucation-project)
 
