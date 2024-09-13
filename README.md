@@ -42,13 +42,6 @@
 
 <br />
 
-### 👩‍💻 Projects   
-제가 진행했던 주요 프로젝트입니다.   
-1. [디벨롭팜](https://github.com/eunbime/develofarm)
-2. [엘리트 옥션](https://github.com/eunbime/elite-auction)
-3. [뮤케이션](https://github.com/eunbime/mucation-project)
-
-<br />
 
 ### ✉️ Contact   
 
