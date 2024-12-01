@@ -1,4 +1,4 @@
-### ⭐️ Skill
+### ★ Skill
 
 #### Language  
 
@@ -12,7 +12,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
-![Tanstack Query](https://img.shields.io/badge/Tanstack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) 
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) 
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![Zustand](https://img.shields.io/badge/Zustand-F47920?style=for-the-badge&logo=zazzle&logoColor=white) 
