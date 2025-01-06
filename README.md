@@ -1,4 +1,4 @@
-### ★ Skill
+### ★ Tech Stack
 
 #### Language  
 
