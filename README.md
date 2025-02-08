@@ -19,6 +19,11 @@
 
 <br />
 
+### ★ Portfolio
+[포트폴리오 바로가기](https://portfolio-git-main-eunbis-projects.vercel.app)
+
+<br />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunbime&show_icons=true&theme=radical) 
 
 
