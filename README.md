@@ -1,5 +1,3 @@
-[Tech Stack](★-Tech-Stack) <br/>
-[Portfolio](★-Portfolio)
 
 
 ### ★ Tech Stack
