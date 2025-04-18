@@ -19,10 +19,6 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![Zustand](https://img.shields.io/badge/Zustand-F47920?style=for-the-badge&logo=zazzle&logoColor=white) 
 
-<br />
-
-### ★ Portfolio
-[포트폴리오 바로가기](https://portfolio-git-main-eunbis-projects.vercel.app)
 
 <br />
 
